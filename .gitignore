@@ -1,0 +1,8 @@
+/target
+
+# Compliance with RA 10173 or Data Privacy Act of 2012 in the Philippines
+# You have to get data of qualifying NCE 2024 examinees.
+#
+# Reference: https://privacy.gov.ph/data-privacy-act/
+/qualifiers.db
+/qualifiers.txt
